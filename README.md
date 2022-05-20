@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imvishalprajapati
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Bachelor of Science in Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me .twitter -- imvishalpra <br />
                      Linkedin/fb/insta - imVishalPrajapati
 
